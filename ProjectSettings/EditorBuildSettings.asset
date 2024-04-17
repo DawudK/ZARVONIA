@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu.unity
+    guid: 86b81bc4c6f8bc5448e4fcd474de8d5c
+  - enabled: 1
+    path: Assets/Starter Village/SpawnVillage.unity
+    guid: d2809ab9b90eea7419d8d90d4c505d35
+  - enabled: 1
+    path: Assets/RamiLevel.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/DawudLevel.unity
+    guid: 9295a725a9a3cac4db567d41f704268f
+  - enabled: 1
+    path: Assets/ReyLevel/LongParkour.unity
+    guid: 5df964c63c1f24144960b583e01f3749
+  - enabled: 1
+    path: Assets/MajdLevel.unity
+    guid: 8e93495003ee0c042bf9f05e59587aaa
+  - enabled: 1
+    path: Assets/MohammedLevel.unity
+    guid: 919d9e06ba283bd4297e2b405e0cb2f9
+  - enabled: 1
+    path: Assets/EndScreen.unity
+    guid: 41319022f5c66ee4896ccdb56e265147
+  m_configObjects: {}

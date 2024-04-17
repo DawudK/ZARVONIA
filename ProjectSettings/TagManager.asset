@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Coins
+  - Backpack
+  - Floor
+  - Coin
+  - Panel
+  - Ball
+  - Gem
+  - Target
+  - Ammo
+  - Creature
+  - WayPoints
+  - FinalWall
+  - rust_key
+  - SuperJump
+  - Weapon
+  - Lava
+  - TrackingObject
+  - Bomb
+  - Actors
+  - Alien
+  - Saturn
+  - BigAlien
+  - rocket
+  - Portal
+  - Door
+  - Door2
+  - Hat
+  - UnderPlane
+  - Potion
+  - Level2
+  - Princess
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
